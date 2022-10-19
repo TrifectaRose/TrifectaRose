@@ -2,7 +2,7 @@
 
 Hello! I'm Syamsul Hilmi, also known as Triff. I was one of the translators of Dead Cells Indonesian Translation Project.
 
-As of now, I'm currently interested in game developments and modding. There are two main ways of contacting me: 
+As of now, I'm currently developing a game, and I'm interested in game developments and modding. There are two main ways of contacting me: 
 
 * Discord: Triffy.#4833
 * Steam: https://steamcommunity.com/id/TrifectaRose/
